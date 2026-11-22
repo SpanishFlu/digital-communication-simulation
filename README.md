@@ -109,8 +109,12 @@ These checks do not replace an independent validation test suite.
 - Adaptive error-count stopping; reported BER is an estimate
 
 ## Results Status
-<img width="312" height="261" alt="413549a5-6632-49ac-9600-b8767d6421c5" src="https://github.com/user-attachments/assets/1f83b429-f4db-4ff1-b7e7-9657f419f263" />
-
+<img width="791" height="537" alt="WhatsApp Image 2026-11-22 at 6 23 12 AM" src="https://github.com/user-attachments/assets/1b1ec016-64e2-44f5-b747-9bba6fb77099" />
+<img width="799" height="537" alt="WhatsApp Image 2026-11-22 at 6 23 12 AM (5)" src="https://github.com/user-attachments/assets/1aa761b2-1652-4894-98e2-9cf0913b1b93" />
+<img width="312" height="261" alt="WhatsApp Image 2026-11-22 at 6 23 12 AM (4)" src="https://github.com/user-attachments/assets/7288200a-6c9d-48bb-baee-9f884aee4aa1" />
+<img width="278" height="256" alt="WhatsApp Image 2026-11-22 at 6 23 12 AM (3)" src="https://github.com/user-attachments/assets/4c6e84ed-54e6-4c79-83f5-411fcc2c647c" />
+<img width="311" height="261" alt="WhatsApp Image 2026-11-22 at 6 23 12 AM (2)" src="https://github.com/user-attachments/assets/8551b68d-901a-4ea9-a013-d3c778ec4bac" />
+<img width="278" height="256" alt="WhatsApp Image 2026-11-22 at 6 23 12 AM (1)" src="https://github.com/user-attachments/assets/898810f9-738d-4848-8b15-462dd8a0022d" />
 
 ## Reference
 
