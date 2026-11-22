@@ -109,11 +109,8 @@ These checks do not replace an independent validation test suite.
 - Adaptive error-count stopping; reported BER is an estimate
 
 ## Results Status
+<img width="312" height="261" alt="413549a5-6632-49ac-9600-b8767d6421c5" src="https://github.com/user-attachments/assets/1f83b429-f4db-4ff1-b7e7-9657f419f263" />
 
-No measured simulation results are included until the project
-has been executed and the outputs reviewed.
-
-Record the MATLAB version and Git revision when publishing results.
 
 ## Reference
 
